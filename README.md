@@ -5,7 +5,7 @@ Launches Minecraft!
 
 ## How to use!
 ```
-const Launcher = require('vanilla-launcher')
+const Launcher = require('./launcher.js')
 
 const launcher = new Launcher();
 
